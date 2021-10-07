@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e790a65c52b46b24a92679120a2f51ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: d9981b552b637b4408aa71e42f441bfd, type: 3}
+  - getCoin: {fileID: 8300000, guid: b1892e59513d73b42b7086d6f86b3599, type: 3}
+  - rockSmash: {fileID: 8300000, guid: c5a33e96eac70b84ab7039e859a2fa8f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
